@@ -15,7 +15,7 @@
 ### Links
 
 - Solution URL: [Github Source Code](https://github.com/JabaDUDE/digital-clock)
-- Live Site URL: [Live Site URL](https://jabadude.github.io/interactive-rating-component/)
+- Live Site URL: [Live Site URL](https://jabadude.github.io/digital-clock/)
 
 ## My process
 
