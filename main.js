@@ -38,7 +38,7 @@ function currentTime() {
   mm = mm < 10 ? "0" + mm : mm;
   ss = ss < 10 ? "0" + ss : ss;
 
-  let time = `${hh}:${mm}:${ss} ${session}`;
+  let time = `${hh}:${mm}:${ss} <span class="session">${session}</span>`;
 
   regularClock.innerHTML = time;
   let t = setTimeout(function () {
